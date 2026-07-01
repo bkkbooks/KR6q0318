@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6q0318/x/v1/juan/0
+seq: 0
+front:
+  text: 樵隱和尚語録目録卷上再住雪峰崇聖禪寺語録卷下法語題跋偈頌佛事等
+  hash: sha256:dd35535b0d9c91619ccdd98160aec4de042bad695746e61ff0d89eaace3d3190
+  markers:
+  - {type: 其他, offset: 0, content: 樵隱和尚語錄目錄, id: KR6q0318_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 樵隱悟逸禪師語錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X70/X70n1385.xml
+    old_id: X70n1385
+hash: sha256:2bd048640a438199c3b15a36bda4c13c7b402a0ae38abc5e862b1a918b543c74
