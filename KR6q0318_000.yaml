@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR6q0318/x/v1/juan/0
 seq: 0
 front:
-  text: 樵隱和尚語録目録卷上再住雪峰崇聖禪寺語録卷下法語題跋偈頌佛事等
-  hash: sha256:dd35535b0d9c91619ccdd98160aec4de042bad695746e61ff0d89eaace3d3190
+  text: 樵隱和尚語錄目錄卷上再住雪峰崇聖禪寺語錄卷下法語題䟦偈頌佛事等
+  hash: sha256:5b0ef29779e51466f2a7e13c678438e376446c0cfb4c01306b4005851cd71f20
   markers:
   - {type: 其他, offset: 0, content: 樵隱和尚語錄目錄, id: KR6q0318_X_000-mulu-1, level: '1'}
 body:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X70/X70n1385.xml
     old_id: X70n1385
-hash: sha256:2bd048640a438199c3b15a36bda4c13c7b402a0ae38abc5e862b1a918b543c74
+hash: sha256:74e8c2c7cc240fd0feb2ee0aa20aa09c8d8ae8dbbd07e46c9b93fd005100bade
