@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0318/v1
 canonical_location: https://kanripo.org/bkk/KR6q0318/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 樵隱悟逸禪師語錄
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0318_000.yaml, hash: 'sha256:74e8c2c7cc240fd0feb2ee0aa20aa09c8d8ae8dbbd07e46c9b93fd005100bade'}
-  - {seq: 1, filename: KR6q0318_001.yaml, hash: 'sha256:3fdf3407ce72b061eb66e6fbe9f884e0b6774067a71e2a01c8dcdeb0ba8b5f1b'}
-  - {seq: 2, filename: KR6q0318_002.yaml, hash: 'sha256:2830cb6abae4f2c3e101a70ed4cd6aac2a43f9417d7cbb8fec4bbfa99283e809'}
+  - {seq: 0, filename: KR6q0318_000.yaml, hash: 'sha256:2bd048640a438199c3b15a36bda4c13c7b402a0ae38abc5e862b1a918b543c74'}
+  - {seq: 1, filename: KR6q0318_001.yaml, hash: 'sha256:6be16dd61eb672e74b4f3aefe05da8b822f06b8fa5423cceab079a1189d054dd'}
+  - {seq: 2, filename: KR6q0318_002.yaml, hash: 'sha256:1acc7c646bfb33a8747ab9bcea16d9e9bdca69ae257da69cac406a84e94e37ea'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0318_000.markers.yaml, hash: 'sha256:3faf839ef156ae8345362360005ae9567806d1f267c02fd632cb9adb3b200f0e'}
-  - {seq: 1, role: markers, filename: assets/KR6q0318_001.markers.yaml, hash: 'sha256:84a8a8f4da3db2c32504fd79f1cf47913d9d8524a03d73f71a60f4c6c1f09f85'}
-  - {seq: 2, role: markers, filename: assets/KR6q0318_002.markers.yaml, hash: 'sha256:5886def9f081e753fa1d39a19318c4bca11c45104c40b10adbb44c006594fbf9'}
+  - {seq: 0, role: markers, filename: assets/KR6q0318_000.markers.yaml, hash: 'sha256:5ef6ef2c2a1ea23fd6fe8ea315e93d233196005eb2fa56dc3311dd064d58d20d'}
+  - {seq: 1, role: markers, filename: assets/KR6q0318_001.markers.yaml, hash: 'sha256:eb5c84004e4d0e1e7bf86c0a36327e5c45e6c83baeaa00cd7237b918b7a77c29'}
+  - {seq: 2, role: markers, filename: assets/KR6q0318_002.markers.yaml, hash: 'sha256:6584cd1182cf6408e8fe849733145646f8e6ed8b16b954b6cd6f480b5f4ab7e0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2309,4 +2309,7 @@ table_of_contents:
   label: 竹房開首座回建之大中
   type: mulu
   level: 1
-hash: sha256:b7082a8a1616c50a47ee5825da318c06a22ab30786a864ab4dc97323798b6b0c
+hash: sha256:dc94b8648a50a4b60a5cd505f4bef8473e9c98d7dedc3590c4df51e8f4e5df25
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
