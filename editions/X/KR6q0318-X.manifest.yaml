@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0318_000-X.yaml, hash: 'sha256:74e8c2c7cc240fd0feb2ee0aa20aa09c8d8ae8dbbd07e46c9b93fd005100bade'}
+  - {seq: 0, filename: KR6q0318_000-X.yaml, hash: 'sha256:2e7dbf31d75903a691d7d7b0fb79062c58ad032302b001b53f2b4e7c63d600c1'}
   - {seq: 1, filename: KR6q0318_001-X.yaml, hash: 'sha256:3fdf3407ce72b061eb66e6fbe9f884e0b6774067a71e2a01c8dcdeb0ba8b5f1b'}
   - {seq: 2, filename: KR6q0318_002-X.yaml, hash: 'sha256:2830cb6abae4f2c3e101a70ed4cd6aac2a43f9417d7cbb8fec4bbfa99283e809'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0318_000-X.markers.yaml, hash: 'sha256:6b52e37b5633e01e4e5916adcdf63e34060f7859142d3a3b9018815b6a26dd0c'}
+  - {seq: 0, role: markers, filename: assets/KR6q0318_000-X.markers.yaml, hash: 'sha256:af21c2cd28b0ccbd8a7161407ca55fa42c8982eeb7d48601201adc54cf637f38'}
   - {seq: 1, role: markers, filename: assets/KR6q0318_001-X.markers.yaml, hash: 'sha256:bb50b35f862f3655a115db7a7c7770109f28aa5942ca51827f4b9c435900d3c6'}
   - {seq: 2, role: markers, filename: assets/KR6q0318_002-X.markers.yaml, hash: 'sha256:c21f2296fe011ac05a0e2b4ccb815162ffee8ae4f177856051bc7aa4ad8b785e'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0318_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 樵隱和尚語錄目錄
@@ -2307,4 +2307,4 @@ table_of_contents:
   label: 竹房開首座回建之大中
   type: mulu
   level: 1
-hash: sha256:e1820fcf70cf2bd102be9986419abcc612e8259a1507c7b2d589b79de16f0325
+hash: sha256:825abfa76cbc3ddbe38de21997248ff1083af67a036c37b2944762daccab6b49
